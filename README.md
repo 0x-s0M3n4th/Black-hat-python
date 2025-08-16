@@ -29,7 +29,7 @@ The goal of this project is to practice Python consistently, explore different p
 ### Running a Script
 Clone this repository and run any script:
 ```bash
-git clone https://github.com/0x-s0M3n4th/Scripts.git
+git clone https://github.com/0x-s0M3n4th/Black-hat-python.git
 cd Black\ hat\ python
 python3 tcp-client.py
 ```
